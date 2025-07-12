@@ -61,11 +61,13 @@ Full stack and embedded systems developer
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PranavKrishnaS"><img src="https://github-readme-stats.vercel.app/api?username=PranavKrishnaS&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="PranavKrishnaS's GitHub stats" /></a><a href="http://www.github.com/PranavKrishnaS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKrishnaS&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/PranavKrishnaS"><img src="https://github-readme-stats.vercel.app/api?username=PranavKrishnaS&show_icons=true&count_private=true&title_color=fb8c00&text_color=fff&icon_color=0891b2&bg_color=151515&hide_border=false&show_icons=true&border_color=D9571C&theme=dark" alt="PranavKrishnaS's GitHub stats" /></a> 
+<a href="http://www.github.com/PranavKrishnaS"><img src="https://streak-stats.demolab.com?user=PranavKrishnaS&theme=dark&border_radius=10&stroke=94EB2A&border=D9571C" /></a>
 
 <a href="https://github.com/PranavKrishnaS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKrishnaS&layout=compact&langs_count=8&theme=github_dark&border_color=D9571C" alt="Top Languages" /></a>
 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/PranavKrishnaS/FullStack" align="left"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavKrishnaS&repo=FullStack&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=false&locale=en" /></a><a href="https://github.com/PranavKrishnaS/FirstResponder" align="right"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavKrishnaS&repo=FirstResponder&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/PranavKrishnaS/FullStack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavKrishnaS&repo=FullStack&title_color=teal&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=false&locale=en" /></a><a href="https://github.com/PranavKrishnaS/FirstResponder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavKrishnaS&repo=FirstResponder&title_color=teal&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=false&locale=en" /></a>
+<a href="https://github.com/PranavKrishnaS/FullStack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavKrishnaS&repo=FullStack&title_color=teal&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
