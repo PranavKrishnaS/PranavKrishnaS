@@ -68,4 +68,4 @@ Full stack and embedded systems developer
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/PranavKrishnaS/FullStack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavKrishnaS&repo=FullStack&title_color=teal&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=false&locale=en" /></a><a href="https://github.com/PranavKrishnaS/FirstResponder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavKrishnaS&repo=FirstResponder&title_color=teal&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=false&locale=en" /></a>
-<a href="https://github.com/PranavKrishnaS/FullStack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PranavKrishnaS&repo=FullStack&title_color=teal&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+</div><br /><br /><br /><br /><br /><br /><br />
