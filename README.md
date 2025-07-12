@@ -61,8 +61,9 @@ Full stack and embedded systems developer
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PranavKrishnaS"><img src="https://github-readme-stats.vercel.app/api?username=PranavKrishnaS&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="PranavKrishnaS's GitHub stats" /></a><a href="http://www.github.com/PranavKrishnaS">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKrishnaS&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/PranavKrishnaS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKrishnaS&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/PranavKrishnaS"><img src="https://github-readme-stats.vercel.app/api?username=PranavKrishnaS&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="PranavKrishnaS's GitHub stats" /></a><a href="http://www.github.com/PranavKrishnaS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKrishnaS&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/PranavKrishnaS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKrishnaS&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 <b>Top Repositories</b>
