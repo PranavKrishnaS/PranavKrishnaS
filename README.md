@@ -63,7 +63,7 @@ Full stack and embedded systems developer
 
 <a href="http://www.github.com/PranavKrishnaS"><img src="https://github-readme-stats.vercel.app/api?username=PranavKrishnaS&show_icons=true&count_private=true&title_color=fb8c00&text_color=fff&icon_color=0891b2&bg_color=151515&hide_border=false&show_icons=true&border_color=D9571C&theme=dark" alt="PranavKrishnaS's GitHub stats" /></a> 
 <a href="http://www.github.com/PranavKrishnaS"><img src="https://streak-stats.demolab.com?user=PranavKrishnaS&theme=dark&border_radius=10&stroke=94EB2A&border=D9571C" /></a>
-
+<a href="https://github.com/PranavKrishnaS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKrishnaS&layout=compact&langs_count=8&theme=github_dark&border_color=D9571C" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
