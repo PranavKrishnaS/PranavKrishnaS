@@ -1,20 +1,3 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**PranavKrishnaS/PranavKrishnaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Pranav
 ==============================================================================================================================
 
@@ -61,8 +44,8 @@ Full stack and embedded systems developer
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PranavKrishnaS"><img src="https://github-readme-stats.vercel.app/api?username=PranavKrishnaS&show_icons=true&count_private=true&title_color=fb8c00&text_color=fff&icon_color=0891b2&bg_color=151515&hide_border=false&show_icons=true&border_color=D9571C&theme=dark" alt="PranavKrishnaS's GitHub stats" /></a> 
-<a href="https://github.com/PranavKrishnaS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKrishnaS&layout=compact&langs_count=8&theme=dark&border_color=D9571C" alt="Top Languages" /></a>
+<a href="http://www.github.com/PranavKrishnaS"><img src="https://github-readme-stats.shion.dev/api?username=PranavKrishnaS&theme=darcula&hide_border=true&include_all_commits=true&count_private=true" alt="PranavKrishnaS's GitHub stats" /></a> 
+<a href="https://github.com/PranavKrishnaS" align="left"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PranavKrishnaS&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></a>
 <a href="http://www.github.com/PranavKrishnaS"><img src="https://streak-stats.demolab.com?user=PranavKrishnaS&theme=dark&border_radius=10&stroke=94EB2A&border=D9571C" /></a>
 
 <!--
